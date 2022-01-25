@@ -17,7 +17,6 @@ void setup()
 {
   pinMode(xiulet, OUTPUT);   // definir el pin 9 com una sortida
 }
-
 //********** Loop *****************************************************************
 void loop()
 {
